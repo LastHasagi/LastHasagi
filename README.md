@@ -9,6 +9,8 @@
 
 ###
 
+<img align="right" height="150" src="https://media.giphy.com/media/LpCHMLfs2TMvUgXP2Q/giphy.gif?cid=790b7611wu8ifrg1kd27f67543ioxnqwjmzhd1tbmszkdg4g&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -40,12 +42,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
 </div>
-
-###
-
-<img align="right" height="200" src="https://media.giphy.com/media/LpCHMLfs2TMvUgXP2Q/giphy.gif?cid=790b7611wu8ifrg1kd27f67543ioxnqwjmzhd1tbmszkdg4g&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
 
 <div align="left">
   <a href="https://discord.gg/jd62X7d2" target="_blank">
