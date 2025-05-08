@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Graça</h1>
 <h3 align="center">I'm a Fullstack Developer, from Brazil.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lasthasagi" alt="lasthasagi" /></a> </p>
-
 - 🔭 I’m currently working at **Accenture BR**
 
 - 💬 Ask me about **Python, Java, Automations**
