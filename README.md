@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Graça</h1>
 <h3 align="center">I'm a Fullstack Developer, from Brazil.</h3>
 
-- 🔭 I’m currently working at **Accenture BR**
+- 🔭 I’m currently working at **TI Safe**
 
 - 💬 Ask me about **Python, Java, Automations**
 
